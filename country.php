@@ -1,6 +1,6 @@
     <div class="form-group">
         <label for="country">الدولة :</label>
-        <select class="form-control"  id="country">
+        <select class="form-control" id="country">
             <option value="AZ">أذربيجان</option>
             <option value="AM">أرمينيا</option>
             <option value="AW">أروبا</option>
